@@ -1,5 +1,5 @@
 # SRB2-SHMUP
-An interpretation of side-scroller SHMUP gameplay in SRB2 Lua's scripting language - Codenamed Lunar
+An interpretation of side-scroller shooter (SHMUP) gameplay in SRB2 Lua's scripting language - Codenamed Lunar
 
 ## How to build
 - [Install MSYS2](https://www.msys2.org/)
